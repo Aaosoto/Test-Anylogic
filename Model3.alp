@@ -18,10 +18,10 @@
 		<ActiveObjectClass>
 			<Id>1743009323787</Id>
 			<Name><![CDATA[Main]]></Name>
-			<StartupCode><![CDATA[double x;
+			<StartupCode><![CDATA[/*double x;
 x = triangularAV(5.0, 0.1);
 double y = triangular(5.0*(1-0.01), 5.0*(1+0.1));
-traceln(x + " " + y);]]></StartupCode>
+traceln(x);*/]]></StartupCode>
 			<Generic>false</Generic>
 			<GenericParameter>
 				<Id>1743009323792</Id>
